@@ -1,0 +1,32 @@
+[
+    {
+        "question": "Which of these numbers is the smallest integer?",
+        "options": ["-1", "0", "1", "2"],
+        "correct": 0,
+        "img": "./assests/images/1.jpg"
+    },
+    {
+        "question": "Which of the following is a negative integer?",
+        "options": ["8", "0", "-12", "4"],
+        "correct": 2,
+        "img": "./assests/images/2.jpg"
+    },
+    {
+        "question": "Calculate the value of -20 + 5.",
+        "options": ["25", "-15", "15", "-25"],
+        "correct": 1,
+        "img": "./assests/images/3.jpg"
+    },
+    {
+        "question": "Evaluate the equation -5 -7.",
+        "options": ["-2", "12", "-12", "2"],
+        "correct": 2,
+        "img": "./assests/images/4.jpg"
+    },
+    {
+        "question": "Solve the equation: (-199) + (-17) + 3 =?",
+        "options": ["-213", "214", "213", "197"],
+        "correct": 0,
+        "img": "./assests/images/5.jpg"
+    }
+]
